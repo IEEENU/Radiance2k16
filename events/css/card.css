@@ -9,6 +9,16 @@
 	padding-bottom: 20%;
 }
 
+/*.card__Major{
+	position: relative;
+	float: center;
+	height: 0;
+	width: 50%;
+	margin: 2%;
+	padding-bottom: 20%;
+	
+}*/
+
 .card__container {
 	position: fixed;
 	top: 0;
